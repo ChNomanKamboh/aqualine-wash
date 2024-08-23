@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/aqualine-wash/static/css/main.21ddbba6.css",
+    "main.js": "/aqualine-wash/static/js/main.c0d7f78b.js",
+    "static/js/453.bfd8e29b.chunk.js": "/aqualine-wash/static/js/453.bfd8e29b.chunk.js",
+    "static/media/washer.png": "/aqualine-wash/static/media/washer.2d93499e3257d9df4ea3.png",
+    "static/media/serv_02.jpg": "/aqualine-wash/static/media/serv_02.d16e4202ec8b917c477c.jpg",
+    "static/media/SLIDE_01.jpg": "/aqualine-wash/static/media/SLIDE_01.b528b676d198082bf532.jpg",
+    "static/media/plan_BG.jpg": "/aqualine-wash/static/media/plan_BG.515d473b2a44e62e1e21.jpg",
+    "index.html": "/aqualine-wash/index.html",
+    "main.21ddbba6.css.map": "/aqualine-wash/static/css/main.21ddbba6.css.map",
+    "main.c0d7f78b.js.map": "/aqualine-wash/static/js/main.c0d7f78b.js.map",
+    "453.bfd8e29b.chunk.js.map": "/aqualine-wash/static/js/453.bfd8e29b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ddbba6.css",
+    "static/js/main.c0d7f78b.js"
+  ]
+}
